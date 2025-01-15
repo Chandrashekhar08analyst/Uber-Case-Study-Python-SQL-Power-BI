@@ -25,8 +25,18 @@ The project analyzes Uber rides data to create insights and an interactive Power
 
      - Cleaned and processed data:
        - Handled missing values and incorrect data.
+      
+         ![Screenshot 2025-01-15 173006](https://github.com/user-attachments/assets/90731022-278e-44fd-a63e-66589956edd3)
+
        - Extracted additional columns like `Date`, `Start_Time`, `Time_of_Day`, `Month`, and `Day` for detailed analysis.
+      
+     ![Screenshot 2025-01-15 173118](https://github.com/user-attachments/assets/69a25d24-1785-46c7-95de-ac62757b5ff6)
+
+     - Data Analysis Using Pandas
+    ![Screenshot 2025-01-15 173253](https://github.com/user-attachments/assets/48b97ee8-3321-45dd-9043-8309792f23ab)
+
      - Visualized trends using Matplotlib and Seaborn for exploratory data analysis.
+     ![Screenshot 2025-01-15 173335](https://github.com/user-attachments/assets/af2884ee-7ce7-40a2-aec8-0ae75c2b5645)
 
 ### 2. **SQL for Data Exploration**
    - Uploaded the cleaned Uber dataset into an SQL database.
