@@ -52,7 +52,11 @@ The project analyzes Uber rides data to create insights and an interactive Power
      - Bookings by `CATEGORY` and `PURPOSE`.
      - Peak times and days for ride bookings.
      - Monthly trends in Uber rides.
-     - Average miles traveled per ride.
+   - **DashBoard**:
+![Screenshot 2025-01-15 173930](https://github.com/user-attachments/assets/dc3101b0-4fb0-48ab-8b1b-39923d1bef01)
+
+![Screenshot 2025-01-15 174005](https://github.com/user-attachments/assets/dde8c337-4860-41ad-a6a7-eeea24a973d6)
+
 
 ## Key Insights:
 1. **Most Booked Ride Category**: Business rides dominate the bookings.
