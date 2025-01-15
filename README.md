@@ -20,6 +20,9 @@ The project analyzes Uber rides data to create insights and an interactive Power
      - `Matplotlib` & `Seaborn`: Data visualization.
    - **Key Steps**:
      - Imported raw Uber data (`Uber_Data.csv`) using Pandas.
+    
+     ![Screenshot 2025-01-15 172805](https://github.com/user-attachments/assets/7914c54b-ee79-421d-9395-edf74496cae2)
+
      - Cleaned and processed data:
        - Handled missing values and incorrect data.
        - Extracted additional columns like `Date`, `Start_Time`, `Time_of_Day`, `Month`, and `Day` for detailed analysis.
