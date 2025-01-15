@@ -59,21 +59,21 @@ The project analyzes Uber rides data to create insights and an interactive Power
 
 
 ## Key Insights:
-1. **Most Booked Ride Category**: Business rides dominate the bookings.
-2. **Common Ride Purpose**: Rides for `Meal/Entertain` and `Errands/Supplies` are the most frequent.
+1. **Most Booked Ride Category**: `Business` rides dominate the bookings.
+2. **Common Ride Purpose**: Rides for `Meeting` and `Meal/Entertain` are the most frequent.
 3. **Peak Booking Times**:
-   - Rides are most frequently booked during the **Night** and **Evening**.
-4. **Least Busy Month**: February has the fewest bookings.
-5. **Day Analysis**: **Weekends** (Saturday and Sunday) see higher bookings compared to weekdays.
-6. **Average Ride Distance**: Most rides cover an average distance of 5 miles.
+   - Rides are most frequently booked during the **Afternoon** and **Morning**.
+4. **Least Busy Month**: September has the fewest bookings.
+5. **Day Analysis**:  `Friday`, `Monday` and `Thusday`see higher bookings compared to weekdays.
+6. **Average Ride Distance**: Most rides cover an average distance of 10 miles.
 
 ## Final Suggestions:
 1. **Optimize Marketing for Business Rides**: Since most bookings are categorized under business, tailored promotions for business users can boost revenue.
-2. **Focus on Evening and Night Availability**: Allocating more drivers during peak booking hours can improve customer satisfaction.
-3. **Weekend Offers**: Introducing weekend promotions can leverage the higher booking trend on Saturdays and Sundays.
+2. **Focus on Afternoon and Morning Availability**: Allocating more drivers during peak booking hours can improve customer satisfaction.
+3. **Weekdays Offers**: Introducing weekdays promotions can leverage the higher booking trend on Friday, Monday & Thusday.
 
 ## Technology Used:
-- **Python**: Data cleaning, manipulation, and visualization.
+- **Python**: Data Preprocessing:, manipulation, analysis and visualization.
 - **SQL**: Structured querying for insights and analysis.
 - **Power BI**: Interactive dashboard creation for visualizing trends.
 
