@@ -80,12 +80,11 @@ The project analyzes Uber rides data to create insights and an interactive Power
 ## Repository Contents:
 
 ### Data Files:
-- [Raw dataset (Uber_Data.csv)](path/to/Uber_Data.csv)
-- [Cleaned dataset (Uber_Cleaned_Data.csv)](path/to/Uber_Cleaned_Data.csv)
+- [Raw dataset (Uber_Data.csv)](data/Uber_Data.csv)
+- [Cleaned dataset (Uber_Cleaned_Data.csv)](data/Uber_Cleaned_Data.csv)
 
 ### Presentation:
-- [Uber Case Study Presentation](file:///C:/Users/CHANDRASHEKHAR/Downloads/Uber%20Case%20Study%20Presentation.pdf)
-
+- [Uber Case Study Presentation](docs/Uber%20Case%20Study%20Presentation.pdf)
 
 ### Python Scripts:
 - Jupyter notebooks for data cleaning and analysis.
@@ -94,10 +93,11 @@ The project analyzes Uber rides data to create insights and an interactive Power
 - SQL queries for data exploration.
 
 ### Power BI File:
-- [Interactive Dashboard (.pbix file)](path/to/dashboard.pbix)
+- [Interactive Dashboard (.pbix file)](files/dashboard.pbix)
 
 ### Project Documentation:
 - [README.md](README.md)
+
 
 
 ## 🟢 Conclusion:
