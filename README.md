@@ -77,28 +77,6 @@ The project analyzes Uber rides data to create insights and an interactive Power
 - **SQL**: Structured querying for insights and analysis.
 - **Power BI**: Interactive dashboard creation for visualizing trends.
 
-## Repository Contents:
-
-### Data Files:
-- [Raw dataset (Uber_Data.csv)](data/Uber_Data.csv)
-- [Cleaned dataset (Uber_Cleaned_Data.csv)](data/Uber_Cleaned_Data.csv)
-
-### Presentation:
-- [Uber Case Study Presentation](file:///C:/Users/CHANDRASHEKHAR/Downloads/Uber%20Case%20Study%20Presentation.pdf)
-
-### Python Scripts:
-- Jupyter notebooks for data cleaning and analysis.
-
-### SQL Scripts:
-- SQL queries for data exploration.
-
-### Power BI File:
-- [Interactive Dashboard (.pbix file)](files/dashboard.pbix)
-
-### Project Documentation:
-- [README.md](README.md)
-
-
 
 ## 🟢 Conclusion:
 This project showcases proficiency in **Python**, **SQL**, and **Power BI** for data analysis and visualization. It delivers valuable insights into Uber ride trends, helping stakeholders make informed decisions and improve operational efficiency.
